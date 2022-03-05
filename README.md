@@ -1,3 +1,3 @@
 # Landing-Page
 
-Full Resposive Page
+Practice resposive page
