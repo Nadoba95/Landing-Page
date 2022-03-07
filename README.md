@@ -1,3 +1,3 @@
 # Landing-Page
 
-Practice resposive page
+Responsive Landing Page
